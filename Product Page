@@ -49,7 +49,8 @@
           <div class="fakeimg" style="height:20px;"></div>
           <img src="idk9090.jpg" alt="ITX 9090" width="60%">
           <p>The IDK 9090</p>
-          <p>Welcome the IDK 9090: The dawn of a new age for graphic technology. This beast will power you to new heights. Capable of astonishing performance in all games. 8k ray traced visuals at 360hz with path tracing on NetThug 3088. No problem. 48GB of GDDR9 VRAM is far too much, but who cares. You'll be wishing you had it when those game developers don't optimise PC games properly. Core clock speeds of over 4000Mhz, why not. The 9090 has a max TDP of nearly 2000W, so you may need a whole extra electric circuit to power it. But that's not our problem, we just want your money after all. Maybe sell a kidney or two, we know you need at least one, but again, not our problem once you've bought your new, shiny ITX 9090 is it?</p>
+          <p>Welcome the IDK 9090: The dawn of a new age for graphic technology. This beast will power you to new heights. Capable of astonishing performance in all games. 8k ray traced visuals at 360fps with path tracing on NetThug 3088. No problem. 48GB of GDDR9 VRAM is far too much, but who cares. You'll be wishing you had it when those game developers don't optimise PC games properly. Core clock speeds of over 4000Mhz, why not. The 9090 has a max TDP of nearly 2000W, so you may need a whole extra electric circuit to power it. But that's not our problem, we just want your money after all. Maybe sell a kidney or two, we know you need at least one, but again, not our problem once you've bought your new, shiny ITX 9090 is it?</p>
+          <h2>MSRP = £5000</h2>
         </div>
         <div class="card">
           <h2>The IDK 9080</h2>
@@ -57,7 +58,8 @@
           <div class="fakeimg" style="height:20px;"></div>
           <img src="idk9080.png" alt="ITX 9090" width="60%">
           <p>The IDK 9080</p>
-          <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+          <p>The IDK 9080, the 9090s little brother is less powerful than the 9090, but it pulls no punches. 32GBs of VRAM, plenty of power and RT cores clocked to 3500Mhz. The IDK 9080 is best suited for 6k gaming. Reasonably priced at £3000, this card is ideal for those who have already sold one of their kidneys.</p>
+          <h2>MSRP = £3000</h2>
         </div>
         <div class="card">
           <h2>The IDK 9070</h2>
@@ -65,14 +67,16 @@
           <div class="fakeimg" style="height:20px;"></div>
           <img src="idk9060.jpg" alt="ITX 9090" width="60%">
           <p>The IDK 9070</p>
-          <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+          <p>Meet the IDK 9070, the mid ranged card of the IDK 90 series line-up. Designed for gamers who want all the bells and whistles of a modern GPU without it costing an arm and a leg to purchase. An absolute bargain at this price, justified by the vast array of AI technology at hand with the IDK 9070.</p>
+          <h2>MSRP = £2000</h2>
         </div><div class="card">
           <h2>The IDK 9060</h2>
           <h5>Coming Feb 21, 2025</h5>
           <div class="fakeimg" style="height:20px;"></div>
           <img src="idk9060.jpg" alt="ITX 9090" width="60%">
           <p>The IDK 9060</p>
-          <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+          <p>The most budget friendly option of the IDK line-up, the IDK 9060 has less power than its big brothers but still beats the competition into submission thanks to advanced AI frame generation technologies. The 9060 is perfectly placed for 4k gaming at frame rates in excess of 200fps.</p>
+          <h2>MSRP = £1000</h2>
         </div>
       </div>
       <div class="rightcolumn">
