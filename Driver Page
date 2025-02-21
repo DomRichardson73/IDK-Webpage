@@ -35,15 +35,19 @@ body {
 <main>
 <h2 style="color: #2196F3;">Drivers</h2>
 
-<article id= "article1" style="color:lightgrey; background-color: aqua;">The RTX 5070, the most budget friendly option of Nvidia's new Blackwell die architecture. 
-    Boasting the latest 4th gen DLSS frame generation technology and 988 AI Tops. 12GB of 
-    GDDR7 VRAM will be more than enough for all the latest and greatest games also. DLSS
-    is a revolutionary suite of neural rendering technologies that uses AI to boost FPS, reduce
-    latency, and improve image quality. The latest breakthrough, DLSS 4, brings new Multi
-    Frame Generation and enhanced Ray Reconstruction and Super Resolution, powered by
-    GeForce RTX™ 50 Series GPUs and fifth-generation Tensor Cores. DLSS on GeForce RTX
-    is the best way to play, backed by an NVIDIA AI supercomputer in the cloud constantly 
-    improving your PC’s gaming capabilities.</article>
+<pre><article id= "article1" style="color:lightgrey; background-color: aqua;"> Latest Drivers
+  <a style="color: lightgrey;" href="#" target="_self">IDK 9090: Driver update 9090.01.02</a>
+  <a style="color: lightgrey;" href="#" target="_self">IDK 9080: Driver update 9080.01.02</a>
+  <a style="color: lightgrey;" href="#" target="_self">IDK 9070: Driver update 9070.01.02</a>
+  <a style="color: lightgrey;" href="#" target="_self">IDK 9060: Driver update 9060.01.02</a>
+
+  Previous Drivers
+
+  <a style="color: lightgrey;" href="#" target="_self">IDK 9090: Driver update 9090.01.01</a>
+  <a style="color: lightgrey;" href="#" target="_self">IDK 9080: Driver update 9080.01.01</a>
+  <a style="color: lightgrey;" href="#" target="_self">IDK 9070: Driver update 9070.01.01</a>
+  <a style="color: lightgrey;" href="#" target="_self">IDK 9060: Driver update 9060.01.01</a>
+</article></pre>
 
 </main>
 
